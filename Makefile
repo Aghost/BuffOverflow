@@ -7,4 +7,4 @@ clean:
 	rm -f Buffo.out
 
 run:
-	./Buffo.out `./evilstr.py`
+	./Buffo.out `./generate_shellcode/evilstr.py 10`
