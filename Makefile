@@ -1,4 +1,3 @@
-# cGraph
 .PHONY = compile clear
 
 compile:
