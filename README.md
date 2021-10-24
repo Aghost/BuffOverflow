@@ -5,7 +5,7 @@
 
 2. Use gdb (linux command line debugger). `gdb Buffo.c` = start gdb and load Buffo.c program
 
-when in gdb, you can run these commands:
+3. when in gdb, you can run these commands:
 
 `list` = display the code
 
