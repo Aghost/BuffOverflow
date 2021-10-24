@@ -5,3 +5,6 @@ compile:
 	
 clean:
 	rm -f Buffo.out
+
+run:
+	./Buffo.out `./evilstr.py`
