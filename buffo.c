@@ -10,7 +10,7 @@ int main(int argc, char* argv[]) {
     char buffer[500];
     strcpy(buffer, argv[1]);
 
-    printf("hell world!\nBuffer: [%s]\n", buffer);
+    printf("Buffer: [%s]\n", buffer);
 
     return 0;
 }
